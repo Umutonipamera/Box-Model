@@ -1,0 +1,27 @@
+.h{
+    color:rgb(177, 132, 132);
+   
+}
+.h1{
+    color:darkblue;
+    
+}
+.h2{
+    color: darkslategray;
+}
+
+
+
+   .content{
+
+    width: 300px;
+    height: 20px;
+    border: 20px darkorchid;
+    padding: 70px; 
+    margin: o;
+    border-style: solid;
+    background-color:brown ;
+}
+.brack{
+    background-color: silver;
+}
